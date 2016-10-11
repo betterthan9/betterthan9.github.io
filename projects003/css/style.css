@@ -1,0 +1,20 @@
+body{
+	background: url("../images/leanding-24.png");
+	font-family: "Spoqa Han Sans";
+	line-height: 1.5;
+	letter-spacing: -0.04em;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+p{
+	margin-top: 0;
+	margin-bottom: 1.5em;
+	color: #134340;
+} 
+
+div{
+	column-count: 2;
+	column-gap:24;
+	margin-top: 9em;
+}
